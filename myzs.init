@@ -1,4 +1,4 @@
 export MYZS_TYPE=PLUGIN
-export MYZS_PLUGIN_NAME="" # Add plugin name
+export MYZS_PLUGIN_NAME="myzs-plugins/thefuck" # Add plugin name
 export MYZS_PLUGIN_VERSION="v0.0.0-development"
 export MYZS_PLUGIN_CHANGELOG="" # Add current changes description
